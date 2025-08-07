@@ -1,0 +1,57 @@
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='42fd3ccb-abea-4fe0-89c2-97edc494f5f8' source='user' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 50, 526397, tzinfo=datetime.timezone.utc) content='香港現在的天氣怎麽樣? 用中文回答' type='TextMessage'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='8ecf026f-6e58-474d-82b0-4bbd75ffb473' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 331719, tzinfo=datetime.timezone.utc) content='<think>\n' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='29f20996-b5e0-4077-a3a7-20b727d66db9' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 343792, tzinfo=datetime.timezone.utc) content='用户' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='f4732548-0d7b-4451-9739-097e44a991a1' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 373206, tzinfo=datetime.timezone.utc) content='询问香港' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='8b81f186-3e31-465a-a728-5346fca67c05' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 405955, tzinfo=datetime.timezone.utc) content='现在的天气' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='7a88e015-8227-433a-8c84-268dbbe1d1a5' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 431310, tzinfo=datetime.timezone.utc) content='怎么样，' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='b323da25-0063-4159-bc04-fa5ad7b8c518' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 460668, tzinfo=datetime.timezone.utc) content='并且要求' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='7ef9ee11-9752-413d-abda-04f32905d0c4' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 489363, tzinfo=datetime.timezone.utc) content='用中文' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='3edfe4bf-a45f-4b15-9a93-8dfe5ccc7e24' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 521000, tzinfo=datetime.timezone.utc) content='回答。' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='6b2a487a-d050-48b5-a3bd-61981eadbcbc' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 581380, tzinfo=datetime.timezone.utc) content='我需要' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='6117893f-93d1-4d38-a139-f07452aaf5ec' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 585641, tzinfo=datetime.timezone.utc) content='使用get' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='5ffbde68-fa9f-45e1-90d5-feb9c8233045' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 612663, tzinfo=datetime.timezone.utc) content='_weather函数' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='96c16f68-0d78-4538-8f1a-e13588261c01' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 645488, tzinfo=datetime.timezone.utc) content='来获取' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='dd4e03a5-c9b0-4672-b5fe-d8c136419700' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 673583, tzinfo=datetime.timezone.utc) content='香港的' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='9a2c58c8-487b-40ac-b51b-9745a64778ad' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 701139, tzinfo=datetime.timezone.utc) content='天气信息' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='b69217b0-2a93-4067-b694-9373dc11db2a' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 730462, tzinfo=datetime.timezone.utc) content='。\n\n' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='50195165-a226-47fc-ad55-0a3ffa8ca56c' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 759981, tzinfo=datetime.timezone.utc) content='函数' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='3c9cb6ae-1db4-4986-9768-8b945d8e8acf' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 949518, tzinfo=datetime.timezone.utc) content='参数：\n' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
+------------------------------------------------------------------------------------------------------------------------
+Received message: 
+id='d1769260-44bc-4c1a-bc80-d3e48700f248' source='weather_agent' models_usage=None metadata={} created_at=datetime.datetime(2025, 8, 7, 8, 24, 51, 950534, tzinfo=datetime.timezone.utc) content='- city' full_message_id='b2594529-05ff-4a53-b1a3-6f75c8659d12' type='ModelClientStreamingChunkEvent'
