@@ -65,7 +65,7 @@ async def main() -> None:
             assistant.run_stream(
                 task=""
                 f"please read the markdown file(s) in `{TMP_DIR}` thanks\n"
-                "please summarize it and reply me in around 50 words\n",
+                "please summarize it and reply me in around 100 words\n",
             )
         )
 

@@ -9,4 +9,3 @@ It is sweet and juicy.
 It is good for you.
 
 It is a good source of vitamin C.
-
